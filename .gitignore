@@ -1,0 +1,9 @@
+/bin
+.DS_Store
+*~
+*.zip
+*.tar.gz
+build_all.sh
+/results
+/pretty
+/target

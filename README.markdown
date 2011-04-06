@@ -1,0 +1,1 @@
+I will update the readme with more information later. Contact me if you are interested in running your own performance benchmarks against Membase with this tool.
